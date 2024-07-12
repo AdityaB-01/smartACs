@@ -1,0 +1,6 @@
+Desired_Temperature,Mode,Wind_Speed,Number_of_Vents,Predicted_Energy,Similarity
+25,Cool,1,1,0.12474419,0.35320386
+20,Dry,1,1,0.13090819,0.47610775
+22,Dry,1,2,0.20070852,0.42422885
+25,Clean,1,1,0.24806902,0.5245834
+25,Cool,2,3,0.25975204,0.2403977
